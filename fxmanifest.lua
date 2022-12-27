@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 version '1.0.1'
 author '💗 Jonass'
-description 'Firework script for BB-RP.de'
+description 'Simple Firework Script'
 shared_script '@es_extended/imports.lua'
 
 client_scripts {
