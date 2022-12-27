@@ -23,5 +23,5 @@ _config = {
 
 
 _config.SendNotify = function(data)
-    exports['bbrp_notify']:sendNotify(data.type, data.title, data.msg, data.fadeout);
+    exports['yourNotify']:sendNotify(data.type, data.title, data.msg, data.fadeout);
 end
